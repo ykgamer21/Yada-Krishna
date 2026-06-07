@@ -214,7 +214,7 @@ window.portfolioContent = {
           items: [
             { type: "video", url: "https://www.instagram.com/taruni.official/reel/DZCE4ASJ0Vk/?hl=en", thumbnail: "assets/works/Taruni.jpg", alt: "Taruni Bridal Dress 1" },
             { type: "video", url: "https://www.facebook.com/taruni.in/videos/anarkalis-that-make-every-entry-count/1597509629045146/", alt: "Sofa Set" },
-            { type: "image", url: "assets/works/Taruni.jpg", alt: "Taruni Bridal Dress 2" }
+            { type: "video", url: "https://www.youtube.com/shorts/pbiETqobfuM", alt: "Taruni Bridal Dress 2" }
           ]
         },
         {
