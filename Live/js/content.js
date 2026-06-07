@@ -95,10 +95,9 @@ window.portfolioContent = {
     image: "assets/images/About Profile.png",
     title: "Hey! I'm Yada Krishna",
     paragraphs: [
-      "I'm a Motion Designer currently working at Untitled Design Studio, creating motion design, logo animations, video editing, social media content, saas animation.",
-      "My creative journey started with 3D artist and has grown into over four years of experience across motion design and 3D modelling & visualization. What I enjoy most about motion design is its ability to turn ideas into stories that people can understand and connect with.",
-      "I'm naturally curious and always exploring new tools, techniques, and creative fields even those outside my day-to-day work. I enjoy paying attention to the details that make a project feel polished, purposeful, and memorable.",
-      "For me, great design isn't just about movement or visuals it's about telling a story and creating something that leaves an impact."
+      "A Motion Graphic Designer currently working at Untitled Design Studio.",
+      "I started my creative journey as a 3D artist in 2021 before transitioning into motion graphics in 2023. Since then, I've worked on motion graphics, logo animations, video editing, social media content, SaaS animations, and 3D visualization.",
+      "I enjoy turning ideas into clear, engaging visual stories that people can connect with. I'm always curious to learn and explore new tools, techniques, and creative approaches. Beyond design, I’m also interested in learning about topics outside the creative field, as I enjoy discovering new perspectives and expanding my knowledge.",
     ],
     contact: {
       email: "palabindalayadakrishna@gmail.com",
