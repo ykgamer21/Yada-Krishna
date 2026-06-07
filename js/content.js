@@ -213,7 +213,7 @@ window.portfolioContent = {
           aspectRatio: "9:16",
           items: [
             { type: "video", url: "https://www.instagram.com/taruni.official/reel/DZCE4ASJ0Vk/?hl=en", thumbnail: "assets/works/Taruni.jpg", alt: "Taruni Bridal Dress 1" },
-            { type: "image", url: "assets/works/Furniture World.jpg", alt: "Sofa Set" },
+            { type: "video", url: "https://www.facebook.com/taruni.in/videos/anarkalis-that-make-every-entry-count/1597509629045146/", alt: "Sofa Set" },
             { type: "image", url: "assets/works/Taruni.jpg", alt: "Taruni Bridal Dress 2" }
           ]
         },
