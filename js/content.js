@@ -196,7 +196,7 @@ window.portfolioContent = {
           type: "media_group",
           aspectRatio: "9:16",
           items: [
-            { type: "image", url: "assets/works/Taruni.jpg", alt: "Taruni Bridal Dress 1" },
+            { type: "video", url: "https://www.instagram.com/taruni.official/reel/DZCE4ASJ0Vk/?hl=en", alt: "Taruni Bridal Dress 1" },
             { type: "image", url: "assets/works/Furniture World.jpg", alt: "Sofa Set" },
             { type: "image", url: "assets/works/Taruni.jpg", alt: "Taruni Bridal Dress 2" }
           ]
