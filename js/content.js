@@ -293,7 +293,7 @@ window.portfolioContent = {
           type: "media_group",
           aspectRatio: "9:16",
           items: [
-            { type: "vidoe", url: "https://pub-00532822571f485189f1f63e456e4061.r2.dev/Fresh-greens-soft-florals-and-sunshine-s_Media_unWiKVuAjL0_001_1080p.mp4", alt: "Taruni 9:16 Single Model" }
+            { type: "video", url: "https://pub-00532822571f485189f1f63e456e4061.r2.dev/Fresh-greens-soft-florals-and-sunshine-s_Media_unWiKVuAjL0_001_1080p.mp4", alt: "Taruni 9:16 Single Model" }
           ]
         },
         {
