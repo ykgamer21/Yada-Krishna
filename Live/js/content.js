@@ -95,7 +95,7 @@ window.portfolioContent = {
     image: "assets/images/About Profile.png",
     title: "Hey! I'm Yada Krishna",
     paragraphs: [
-      "A Motion Graphic Designer currently working at Untitled Design Studio.",
+      "A Motion Graphic Designer with 3+ years of experience currently working at Untitled Design Studio.",
       "I started my creative journey as a 3D artist in 2021 before transitioning into motion graphics in 2023. Since then, I've worked on motion graphics, logo animations, video editing, social media content, SaaS animations, and 3D visualization.",
       "I enjoy turning ideas into clear, engaging visual stories that people can connect with. I'm always curious to learn and explore new tools, techniques, and creative approaches. Beyond design, I’m also interested in learning about topics outside the creative field, as I enjoy discovering new perspectives and expanding my knowledge.",
     ],
