@@ -25,7 +25,7 @@ window.portfolioContent = {
 
   // Home Page - Core Expertise (Horizontal Marquee)
   expertise: [
-    "Motion Design",
+    "Motion Graphics Designer",
     "Video Editing",
     "Sound Design",
     "Color Grading",
@@ -38,14 +38,14 @@ window.portfolioContent = {
     {
       company: "untitled",
       logo: "assets/logos/Untitled Desing Studio Logo.png",
-      role: "Motion Design",
+      role: "Motion Graphics Designer",
       employmentType: "Full Time",
       duration: "2025-Present"
     },
     {
       company: "White Thoughts & Branding",
       logo: "assets/logos/WTB Logo.png",
-      role: "Motion Design | 3D Artist",
+      role: "Motion Graphics Designer | 3D Artist",
       employmentType: "Full Time",
       duration: "2023-25"
     },
