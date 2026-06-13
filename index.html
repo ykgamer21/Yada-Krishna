@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Personal Portfolio of Yada Krishna, a Professional Motion Designer, 3D Artist, Video Editor, and Sound Designer. Explore motion design showreels, company experience, and project case studies.">
+  <meta name="author" content="Yada Krishna">
+  <meta name="keywords" content="Motion Design, Video Editing, Sound Design, Color Grading, 3D Artist, Graphic Design, Yada Krishna, Portfolio">
+  <title>Yada Krishna | Motion Designer Portfolio</title>
+  
+  <!-- Preload Custom Variable Font for Faster Rendering -->
+  <link rel="preload" href="./assets/fonts/NotoSansMono-VariableFont_wdth,wght.ttf" as="font" type="font/ttf" crossorigin>
+
+  <!-- Global Stylesheet -->
+  <link rel="stylesheet" href="style.css?v=1.4">
+</head>
+<body>
+
+  <!-- Fullscreen Loading Overlay -->
+  <div id="site-loader" class="site-loader">
+    <div class="loader-content">
+      <video id="loader-video" autoplay loop muted playsinline></video>
+    </div>
+  </div>
+
+  <!-- Fullscreen Maintenance Overlay -->
+  <div id="maintenance-screen" class="maintenance-screen" style="display: none;">
+    <main class="maintenance-container">
+      <div class="logo-wrapper">
+        <img id="maintenance-logo" src="" alt="YK Logo" class="logo">
+      </div>
+      <h1 class="status-text">
+        <span class="typewriter"></span><span class="cursor">|</span><span class="dots"><span class="dot">.</span><span class="dot">.</span><span class="dot">.</span><span class="dot">.</span></span>
+      </h1>
+    </main>
+    <footer class="maintenance-footer">
+      <p id="maintenance-copyright"></p>
+    </footer>
+  </div>
+
+  <!-- Screen Reader Title for SEO Heading Structure -->
+  <h1 style="position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); border: 0;">
+    Yada Krishna | Motion Designer & 3D Artist Portfolio
+  </h1>
+
+  <!-- Dynamic Header / Navigation Shell -->
+  <div id="site-header-container"></div>
+
+  <!-- SPA Router Page Injection Shell -->
+  <main id="app-root"></main>
+
+  <!-- Dynamic Footer Shell -->
+  <div id="site-footer-container"></div>
+
+  <!-- Centralized Scripts with Automatic Zero-Maintenance Cache-Busting -->
+  <script>
+    (function() {
+      // Create version code based on Date & Hour (e.g. YYYYMMDDHH)
+      // This forces the browser to refresh caches automatically every hour
+      const now = new Date();
+      const version = now.getFullYear() + 
+                      String(now.getMonth() + 1).padStart(2, '0') + 
+                      String(now.getDate()).padStart(2, '0') + 
+                      String(now.getHours()).padStart(2, '0');
+      
+      const scripts = [
+        "js/content.js",
+        "js/client-pages.js",
+        "js/router.js",
+        "js/app.js"
+      ];
+      
+      scripts.forEach(src => {
+        const script = document.createElement('script');
+        script.src = src + "?v=" + version;
+        script.async = false; // Ensures scripts are loaded and run in order
+        document.body.appendChild(script);
+      });
+    })();
+  </script>
+
+</body>
+</html>
