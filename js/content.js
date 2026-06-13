@@ -25,7 +25,7 @@ window.portfolioContent = {
   
   // Maintenance Page Configuration
   maintenance: {
-    enabled: false,                                              // Set to true to enable the maintenance screen, false to disable
+    enabled: true,                                              // Set to true to enable the maintenance screen, false to disable
     logoImage: "assets/images/YK-Logo.png",                      // Path to your maintenance logo
     statusText: "We're crafting new visuals behind the scenes",                        // Message for typewriter animation
     copyright: "© 2026 Portfolio - Yada Krishna. All rights reserved." // Copyright text
