@@ -186,7 +186,7 @@ window.portfolioContent.clientPages = {
         type: "media_group",
         aspectRatio: "16:9",
         items: [
-          { type: "video", url: "https://customer-v7g3tq9n6e6b4y3c.cloudflarestream.com/9a9b9c9d9e9f9g9h9i9j9k9l9m9n9o9p/iframe", alt: "Furniture World 3D Promo Video" }
+          { type: "video", url: "https://pub-00532822571f485189f1f63e456e4061.r2.dev/Timeless-Designs-to-Elevate-Your-Wedding_Media_S0FGHdxWV4I_001_1080p.mp4", alt: "Furniture World 3D Promo Video" }
         ]
       },
       {
