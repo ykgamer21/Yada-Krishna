@@ -119,7 +119,7 @@ window.portfolioContent = {
             logos: [
               { name: "Nirah Early Years", logo: "assets/Cilent Logos/Featured Slide 1 Logos/Nirah Logo.webp" },
               { name: "Hare Krishna Goldern Temple", logo: "assets/Cilent Logos/Featured Slide 1 Logos/Hare Krishna Logo.webp" },
-              { name: "Prakash Arts", logo: "assets/Cilent Logos/Featured Slide 1 Logos/Prakash Arts Logo.Webp" },
+              { name: "Prakash Arts", logo: "assets/Cilent Logos/Featured Slide 1 Logos/Prakash Arts Logo.webp" },
               { name: "Taruni", logo: "assets/Cilent Logos/Featured Slide 1 Logos/Taruni Logo.webp" },
               { name: "Lake CIty by Vasavi Group", logo: "assets/Cilent Logos/Featured Slide 1 Logos/Lake City Logo.webp" },
               { name: "CSR Estates", logo: "assets/Cilent Logos/Featured Slide 1 Logos/CSR Estates Logo.webp" }              
